@@ -20,5 +20,6 @@
 ![경전선](https://github.com/user-attachments/assets/a158af5f-60ec-4843-ae59-3f2f42272cf6)
 ![전라선](https://github.com/user-attachments/assets/1a55456d-98ae-4a50-a466-91b2ab241918)
 ![호남선](https://github.com/user-attachments/assets/c49b80ce-a77c-49d5-9d57-7ce053c5d0f5)
+![동해](https://github.com/user-attachments/assets/e3c02f9a-67bc-45ec-971a-9c62b92da109)
 
 ![동해선](https://github.com/user-attachments/assets/bebad8f6-dcf6-4caf-bb3e-4d80f6cbd4b3)
