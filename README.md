@@ -11,7 +11,7 @@
 * 노선별 월별 수요(승차인원수)
 ---
 결과 :
-* 활용 알고리즘 : 머신러닝 5종(Random Forest, XGBosst, LightGBM, Catboost), 딥러닝 3종(LSTM, GPU, CNN-LSTM)
+* 활용 알고리즘 : 머신러닝 4종(Random Forest, XGBosst, LightGBM, Catboost), 딥러닝 3종(LSTM, GPU, CNN-LSTM)
 * 각 노선별 Best Model : 
 ![ktx](https://github.com/user-attachments/assets/eebe8416-2d1b-4804-857f-64c0587d87bc)
 
