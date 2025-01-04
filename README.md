@@ -12,3 +12,4 @@
 * 주중 및 주말 기준 : (주중) 월화수목, (주말) 금토일
 * 케이스 5종 : 월별 KTX 전체 수요
   
+![ktx](https://github.com/user-attachments/assets/eebe8416-2d1b-4804-857f-64c0587d87bc)
