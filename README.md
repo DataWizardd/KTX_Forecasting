@@ -15,3 +15,10 @@
 * 활용 알고리즘 : 머신러닝 5종(Random Forest, XGBosst, LightGBM, Catboost), 딥러닝 3종(LSTM, GPU, CNN-LSTM)
 * 각 노선별 Best Model : 
 ![ktx](https://github.com/user-attachments/assets/eebe8416-2d1b-4804-857f-64c0587d87bc)
+* 시각화
+![경부선](https://github.com/user-attachments/assets/d9f6f180-d98b-43db-84fe-4491445bfe3e)
+![경전선](https://github.com/user-attachments/assets/a158af5f-60ec-4843-ae59-3f2f42272cf6)
+![전라선](https://github.com/user-attachments/assets/1a55456d-98ae-4a50-a466-91b2ab241918)
+![호남선](https://github.com/user-attachments/assets/c49b80ce-a77c-49d5-9d57-7ce053c5d0f5)
+
+![동해선](https://github.com/user-attachments/assets/bebad8f6-dcf6-4caf-bb3e-4d80f6cbd4b3)
