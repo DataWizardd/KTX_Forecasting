@@ -8,12 +8,13 @@
 예측대상 :
 * KTX 5개 노선 : 경부선, 경전선, 동해선, 전라선, 호남선
 * 주중 및 주말 기준 : (주중) 월화수목, (주말) 금토일
-* 케이스 5종 : 월별 KTX 전체 수요
+* 노선별 월 수요
 ---
+결과 :
 * 활용 알고리즘 : 머신러닝 5종(Random Forest, XGBosst, LightGBM, Catboost), 딥러닝 3종(LSTM, GPU, CNN-LSTM)
 * 각 노선별 Best Model : 
 ![ktx](https://github.com/user-attachments/assets/eebe8416-2d1b-4804-857f-64c0587d87bc)
----
+
 * 시각화
 ![경부선](https://github.com/user-attachments/assets/d9f6f180-d98b-43db-84fe-4491445bfe3e)
 ![경전선](https://github.com/user-attachments/assets/a158af5f-60ec-4843-ae59-3f2f42272cf6)
