@@ -9,7 +9,7 @@
 * KTX 5개 노선 : 경부선, 경전선, 동해선, 전라선, 호남선
 * 노선별 월별 수요(승차인원수)
 ---
-결과 :
+모델링 :
 * 활용 알고리즘 : 머신러닝 4종(Random Forest, XGBoost, LightGBM, Catboost), 딥러닝 2종(LSTM, GPU)
 * 각 노선별 Best Model : 
 ![result_ktx](https://github.com/user-attachments/assets/fe1bc97e-409b-4fd1-91c3-d641595535c3)
