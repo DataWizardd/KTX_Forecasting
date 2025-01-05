@@ -12,7 +12,8 @@
 결과 :
 * 활용 알고리즘 : 머신러닝 4종(Random Forest, XGBoost, LightGBM, Catboost), 딥러닝 2종(LSTM, GPU)
 * 각 노선별 Best Model : 
-![ktx](https://github.com/user-attachments/assets/eebe8416-2d1b-4804-857f-64c0587d87bc)
+![result_ktx](https://github.com/user-attachments/assets/fe1bc97e-409b-4fd1-91c3-d641595535c3)
+
 
 * 시각화
 ![경부선](https://github.com/user-attachments/assets/d9f6f180-d98b-43db-84fe-4491445bfe3e)
