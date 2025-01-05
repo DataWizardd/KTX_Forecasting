@@ -11,14 +11,17 @@
 ---
 모델링 :
 * 활용 알고리즘 : 머신러닝 4종(Random Forest, XGBoost, LightGBM, Catboost), 딥러닝 2종(LSTM, GPU)
-* 각 노선별 Best Model : 
+* 각 노선별 Best Model :
+  
 ![result_ktx](https://github.com/user-attachments/assets/fe1bc97e-409b-4fd1-91c3-d641595535c3)
 * 시각화(경부선)
+  
 ![경부](https://github.com/user-attachments/assets/053b21cd-a71e-4845-9947-2f239206b0ac)
 ---
 결과 :
 * 예측기간 : 2024년4월~2025년12월
 * 활용 알고리즘 : 경부선, 전라선 - Random Forest 경전선, 전라선 - XGBosst 동해선 - LSTM
 * 시각화(경부선)
+  
 ![경부2](https://github.com/user-attachments/assets/2d225cdb-9c7a-4349-89f5-ed01e82fc4f4)
 
